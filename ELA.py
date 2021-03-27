@@ -1,5 +1,4 @@
 import seaborn as sns
-from PIL import Image
 from PIL import Image, ImageChops, ImageEnhance
 
 sns.set(style='white', context='notebook', palette='deep')
