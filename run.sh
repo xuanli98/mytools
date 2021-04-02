@@ -1,0 +1,1 @@
+nohup python -u dcgan.py --n_epochs 1000000 --batch_size 128 > test.log 2>&1 &
